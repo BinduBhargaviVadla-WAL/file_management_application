@@ -1,0 +1,51 @@
+.App {
+  text-align: center;
+}
+input {
+  padding: 15px;
+  width: 300px;
+  border: none;
+  border-bottom: 2px solid #abab;
+  margin: 20px;
+}
+textarea {
+  padding: 15px;
+  width: 300px;
+  border: none;
+  border: 2px solid #abab;
+  margin: 20px;
+}
+button {
+  border: none;
+  padding: 15px;
+  margin: 10px;
+  background-color: darkcyan;
+  color: antiquewhite;
+  border-radius: 7px;
+  width: 150px;
+  margin: auto;
+  margin: 20px;
+}
+form {
+  width: 500px;
+  margin: auto;
+  box-shadow: 10px 10px 12px 6px rgba(7, 7, 7, 0.541);
+  background-color: white;
+  margin-bottom: 10px;
+}
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+.container {
+  border-bottom: 4px double black;
+  padding-bottom: 20px;
+  margin-bottom: 20px;
+}
+.text-content {
+  padding: 15px;
+  width: 500px;
+  border: none;
+  border: 2px solid #abab;
+  margin: 20px;
+}
